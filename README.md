@@ -31,7 +31,7 @@ How to Use
 To get started with this guide:
 1. Download or Clone this repository:
    ```bash
-   git clone https://github.com/your-username/docker-command-guide.git
+   git clone https://github.com/mahesh1221454/Docker-Basic-Commands.git
    ```
 2. Open the provided PDF file to access the full command reference.
 3. Use the guide as a quick reference when working with Docker, or read through it to deepen your understanding of Docker’s capabilities.
